@@ -11,11 +11,12 @@
 ![.Net](https://img.shields.io/badge/-.Net-5C2D91?style=for-the-badge&logo=.net)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![SharePoint](https://img.shields.io/badge/-Microsoft%20SharePoint-blue?style=for-the-badge&logo=microsoft-sharepoint)
+![Bot Framework](https://img.shields.io/badge/-Bot%20Framework-green?style=for-the-badge&logo=dependabot)
+![Arduino](https://img.shields.io/badge/-Arduino-9fc?style=for-the-badge&logo=Arduino)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![WebPack](https://img.shields.io/badge/-WebPack-black?style=for-the-badge&logo=webpack)
-![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
-![Markdown](https://img.shields.io/badge/-Markdown-005571?style=for-the-badge&logo=Markdown)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=PowerShell)
 ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,12 +25,10 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI%20-0081CB?style=for-the-badge&logo=material-ui)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=AzureDevOps)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
 
 ## Stats
 
