@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/bruno.palmaavila)](https://www.facebook.com/bruno.palmaavila)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bapa/)](https://www.linkedin.com/in/bapa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/asabov3.sob3low/)](https://www.instagram.com/asabov3.sob3low/)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:bruno.palma94@gmail.com)](mailto:bruno.palma94@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brunopalma480@gmail.com)](mailto:brunopalma480@gmail.com)
 
 ## Tech
 
