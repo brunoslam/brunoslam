@@ -33,6 +33,4 @@
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=brunoslam&show_icons=true&count_private=true&theme=default)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bpalma&style=flat-square)
